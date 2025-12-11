@@ -1,5 +1,5 @@
-1-AI
-2-ML
-3-DevOps
-4-Big Data
-5-Blockchain
+1. C
+2. Python
+3. Git
+4. HTML/CSS
+5. C++
